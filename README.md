@@ -47,6 +47,11 @@ The cleaned data feeds a Power Pivot data model with custom DAX measures, includ
 - Certain product lines consistently outperform others in both revenue and gross income contribution.
 - Payment method distribution and customer type (Member vs. Normal) show distinct purchasing patterns worth targeting separately.
 
+## Dashboard 
+<img width="1643" height="857" alt="home1" src="https://github.com/user-attachments/assets/b8c861fa-2323-4937-b91b-cef44e37a9f9" />
+
+<img width="1893" height="920" alt="execel2" src="https://github.com/user-attachments/assets/ba462af1-6720-452d-86f6-e4e87c0fb543" />
+
 ## Repository Structure
 
 ```
